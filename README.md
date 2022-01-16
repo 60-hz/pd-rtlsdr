@@ -56,6 +56,7 @@ Pd MacOS (64bit)
  Dependencies:
 
  brew install libusb-1.0
+ 
  brew install rtlsdr
 
 Run the makefile inside src/macOS/ folder: sudo make
