@@ -33,7 +33,7 @@ gain [gain in dB] [immediate (optional)] : set RF gain. If immediate is set to 1
 
 samplerate [samplerate] : set sample rate. Takes effect after start message. default is current Pd/Max sample rate.
 	
-Note that the example patches run inside block~ (pd) and poly~ (max) to allow higher sample rate for better wide band FM detection.
+Note that the example patches run inside block~ (pd) to allow higher sample rate for better wide band FM detection.
 
 Pd MacOS:
 ====
