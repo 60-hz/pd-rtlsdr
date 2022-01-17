@@ -3,7 +3,7 @@ pd-rtlsdr
 
 Pd external for rtl-SDR usb dongle.
 
-RTL-SDR is a very cheap ~$25 USB dongle that can be used as a computer based radio scanner for receiving live radio signals in your area (no internet required). Depending on the particular model it could receive frequencies from 500 kHz up to 1.75 GHz. Most software for the RTL-SDR is also community developed, and provided free of charge.
+RTL-SDR is a very cheap ~$25 USB dongle that can be used as a computer based radio scanner for receiving live radio signals in your area (no internet required). Depending on the particular model it could receive frequencies from 500 kHz up to 1.75 GHz. Most software for the RTL-SDR is also community developed, and provided free of charge. (from https://www.rtl-sdr.com/about-rtl-sdr/).
 
 This is a pre-release version. Documentation is in progress. Here are couple of demo videos:
 
