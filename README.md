@@ -7,9 +7,9 @@ RTL-SDR is a very cheap ~$25 USB dongle that can be used as a computer based rad
 
 This is a pre-release version. Documentation is in progress. Here are couple of demo videos:
 
-http://youtu.be/MafEBdgM3E4
+https://www.youtube.com/watch?v=m7SydPb6Ycs
 
-http://youtu.be/KdXjGOqu_9Q
+http://youtu.be/MafEBdgM3E4
 
 
 Note: You can only run one radio and one instance of the [rtlsdr~] object. This will be fixed in future releases. 
